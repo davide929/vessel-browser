@@ -1,6 +1,6 @@
 {
   "name": "vessel-browser",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "description": "Built from the ground-up for agents, Vessel Browser is an open source AI browser for Linux/Mac/Windows that provides a durable state, MCP control, and BYOK with full autonomous browsing. Use with Hermes Agent, OpenClaw, or connect to your favorite API provider.",
   "main": "src/index.ts",
   "scripts": {
